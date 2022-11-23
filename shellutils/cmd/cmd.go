@@ -75,8 +75,8 @@ func (c *Command) Run() (*Command, error) {
 	return c, nil
 }
 
-// NewWithExpression creates a new Command with the specified command binary and the expression
-func (c *Command) NewWithExpression(cmdBin string, expression string) *Command {
+// WithExpression creates a new Command with the specified command binary and the expression
+func (c *Command) WithExpression(cmdBin string, expression string) *Command {
 	c.Command = cmdBin
 	c.Args = []string{"-c", expression}
 
