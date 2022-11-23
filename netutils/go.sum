@@ -1,4 +1,4 @@
 github.com/Showmax/go-fqdn v1.0.0 h1:0rG5IbmVliNT5O19Mfuvna9LL7zlHyRfsSvBPZmF9tM=
 github.com/Showmax/go-fqdn v1.0.0/go.mod h1:SfrFBzmDCtCGrnHhoDjuvFnKsWjEQX/Q9ARZvOrJAko=
-github.com/acceldata-io/goutils/shellutils v0.0.0-20221123064818-72b2197efaea h1:4qqBZcl+FLUqA192uQdEMudBL7wnyvW+zVHJT/9WWqs=
-github.com/acceldata-io/goutils/shellutils v0.0.0-20221123064818-72b2197efaea/go.mod h1:IYKZY4jQZsawSWAHKJ+l2WOnJA/nh/cUTk2yQCvY4zg=
+github.com/acceldata-io/goutils/shellutils v0.0.0-20221123071023-3339e0dfbdb0 h1:WC9PW2+yR3sxyVGDeKc/2p1mDvGW4c5PzunfxK80aOc=
+github.com/acceldata-io/goutils/shellutils v0.0.0-20221123071023-3339e0dfbdb0/go.mod h1:IYKZY4jQZsawSWAHKJ+l2WOnJA/nh/cUTk2yQCvY4zg=
