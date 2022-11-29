@@ -1,0 +1,12 @@
+github.com/Showmax/go-fqdn v1.0.0 h1:0rG5IbmVliNT5O19Mfuvna9LL7zlHyRfsSvBPZmF9tM=
+github.com/Showmax/go-fqdn v1.0.0/go.mod h1:SfrFBzmDCtCGrnHhoDjuvFnKsWjEQX/Q9ARZvOrJAko=
+github.com/acceldata-io/goutils/netutils v0.0.0-20221123071238-583f037c16b2 h1:Kk5r46pVe4eQyIuwMHVlGHiJo2dBilzSO19rH+b9ENg=
+github.com/acceldata-io/goutils/netutils v0.0.0-20221123071238-583f037c16b2/go.mod h1:S2WlJWruUcxkRP29i/9Pc6h8UtYJxLzZmtiJzrq+fA4=
+github.com/acceldata-io/goutils/shellutils v0.0.0-20221123071023-3339e0dfbdb0 h1:WC9PW2+yR3sxyVGDeKc/2p1mDvGW4c5PzunfxK80aOc=
+github.com/acceldata-io/goutils/shellutils v0.0.0-20221123071023-3339e0dfbdb0/go.mod h1:IYKZY4jQZsawSWAHKJ+l2WOnJA/nh/cUTk2yQCvY4zg=
+github.com/coreos/go-systemd/v22 v22.5.0 h1:RrqgGjYQKalulkV8NGVIfkXQf6YYmOyiJKk8iXXhfZs=
+github.com/coreos/go-systemd/v22 v22.5.0/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
+github.com/gobwas/glob v0.2.3 h1:A4xDbljILXROh+kObIiy5kIaPYD8e96x1tgBhUI5J+Y=
+github.com/gobwas/glob v0.2.3/go.mod h1:d3Ez4x06l9bZtSvzIay5+Yzi0fmZzPgnTbPcKjJAkT8=
+github.com/godbus/dbus/v5 v5.0.4 h1:9349emZab16e7zQvpmsbtjc18ykshndd8y2PG3sgJbA=
+github.com/godbus/dbus/v5 v5.0.4/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
